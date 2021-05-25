@@ -1,1 +1,1 @@
-# Part1-2_Music_Generation-zargar
+# Part1&2_Music_Generation-zargar
